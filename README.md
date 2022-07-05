@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding as a hobby
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ---
-- 📫 How to reach me on:
+- 📫 Reach me on:
 - discord - zope#8035
 
 <!---
