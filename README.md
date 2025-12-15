@@ -1,1 +1,1 @@
-BSc Computing Science - Rijksuniversiteit Groningen
+BSc Computing Science - University of Groningen
